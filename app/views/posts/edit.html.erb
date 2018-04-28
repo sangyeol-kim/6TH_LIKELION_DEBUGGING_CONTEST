@@ -1,6 +1,8 @@
+<!-- 수정한 내용이 없을 시 Update 이후의 글은 이전의 내용, 제목을 유지하도록 코드를 수정하세요-->
+
 <form action="/posts/update" method="POST">
-    <input type="text" name="titme" placeholder="제목을 입력해주세요">
-    <input type="text" name="content" placeholder="내용을 입력해주세요">
+    <input type="text" name="titme">
+    <input type="text" name="content">
     <%= hidden_field_tag :authenticity_token, form_authenticity_token %>
     <input type="submit" value="글 쓰기">
 </form>
