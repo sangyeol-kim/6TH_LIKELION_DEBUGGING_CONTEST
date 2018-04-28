@@ -1,6 +1,6 @@
 # README
 
-![title](.images/knu_lion.png)
+![title](https://www.facebook.com/465239337010158/photos/641674022700021/)
 
 ## 6th KNU LIKELION Deburg Contest
 * 제작자: 6th KNU LIKELION 김상열
