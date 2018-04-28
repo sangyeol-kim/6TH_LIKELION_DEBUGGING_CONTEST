@@ -1,6 +1,6 @@
 # README
 
-## 6th KNU LIKELION Debugging Contest
+## 6th KNU LIKELION Debugging Contest Code
 * 제작: 6th KNU LIKELION 김상열
 * Version: Ruby 2.4.0p0 / Rails 5.1.6
 
