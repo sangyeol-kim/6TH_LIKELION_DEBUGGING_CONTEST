@@ -15,9 +15,9 @@
 1. MVC Pattern을 바탕으로 모든 CRUD 기능이 정상 작동해야 함
 2. Controller에 정의된 id parameter명은 유지할 것
 
-    > show뷰의 id parameter는 post_id를 사용
+    > ex) show뷰의 id parameter는 post_id를 사용
 
-3. Update를 했을 때 수정한 내용이 없으면 이전 제목, 내용을 유지해야 함
+3. Edit에서 수정한 내용이 없으면 해당 글은 이전 제목, 내용을 유지해야 함
 
 ## 진행방식
 * 랜덤으로 매칭된 팀별로 디버깅을 진행
