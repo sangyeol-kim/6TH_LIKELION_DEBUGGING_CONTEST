@@ -1,0 +1,11 @@
+<h1>메인 게시판입니다</h1><br><br>
+
+<% @posts.each do |x| %>
+    <strong><%=x.id%>번 글</strong>
+    <a href="/posts/show"><%= x.title %></a>
+    <a href="/posts/edit">수정하기</a>
+    <a href="/posts/destroy">삭제하기</a> <br>
+<% end %>
+
+<br><br>
+<a href="/posts/new">글 쓰기</a>
