@@ -1,6 +1,6 @@
 # README
 
-![title](.image/knu_lion.png)
+![title](.images/knu_lion.png)
 
 ## 6th KNU LIKELION Deburg Contest
 * 제작자: 6th KNU LIKELION 김상열
