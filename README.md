@@ -1,3 +1,5 @@
+![knu_lion](https://user-images.githubusercontent.com/26738287/39401340-9a3311f0-4b7d-11e8-9840-a4bef362db37.png)
+
 # README
 
 ## 6th KNU LIKELION Debugging Contest Code
