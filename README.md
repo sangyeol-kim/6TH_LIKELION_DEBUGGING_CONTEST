@@ -1,11 +1,11 @@
 # README
 
-## 6th KNU LIKELION Deburg Contest
+## 6th KNU LIKELION Debugging Contest
 * 6th KNU LIKELION 김상열
 * Version: Ruby 2.4.0p0 / Rails 5.1.6
 
 
-## Deburg Contest Code 사용법
+## Debugging Contest Code 사용법   
 1. Rails v5.1.6이 설치된 Workspace 생성
 2. bash에 git clone https://github.com/sangyeol-kim/6TH_KNU_LIKELION_DEBURG_CONTEST.git
 3. bash에 rake db:migrate로 미리 정의된 테이블 생성 후 진행
