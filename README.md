@@ -10,8 +10,7 @@
 ## Debugging Contest Code 사용법   
 1. Rails v5.1.6이 설치된 Workspace 생성
 2. bash에 git clone https://github.com/sangyeol-kim/6TH_LIKELION_DEBUGGING_CONTEST.git
-3. bash에 rake db:migrate로 미리 정의된 테이블 생성 후 진행
-4. cd로 폴더 진입 후 오류를 발생시키는 코드 찾아 해결하기
+3. cd로 폴더 진입 후 오류를 발생시키는 코드 찾아 해결하기
 
 ## 주의사항
 1. MVC Pattern을 바탕으로 모든 CRUD 기능이 정상 작동해야 함
